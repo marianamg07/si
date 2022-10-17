@@ -4,3 +4,7 @@ __license__ = "Apache License 2.0"
 __version__ = "0.0.1"
 __maintainer__ = "Mariana Gonçalves"
 __email__ = "pg45472@alunos.uminho.pt"
+
+# -----------------------------------------------------------------------------------
+# This package is heavily inspired and adtaped from https://github.com/vmspereira/si
+# -----------------------------------------------------------------------------------
